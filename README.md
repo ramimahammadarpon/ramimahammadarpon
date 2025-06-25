@@ -52,12 +52,13 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramimahammadarpon&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramimahammadarpon&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramimahammadarpon&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramimahammadarpon&theme=tokyonight" />
 </p>
 
-
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramimahammadarpon&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 <p align="center">
