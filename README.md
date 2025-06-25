@@ -53,8 +53,8 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
 
 
 <p align="center">
-  <img width="48%" style="height: 200px; src="https://github-readme-stats.vercel.app/api?username=ramimahammadarpon&show_icons=true&theme=tokyonight" />
-  <img width="48%" style="height: 200px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramimahammadarpon&layout=compact&theme=tokyonight" />
+  <img width="48%" style="height: 200px src="https://github-readme-stats.vercel.app/api?username=ramimahammadarpon&show_icons=true&theme=tokyonight" />
+  <img width="48%" style="height: 200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramimahammadarpon&layout=compact&theme=tokyonight" />
 </p>
 
 
