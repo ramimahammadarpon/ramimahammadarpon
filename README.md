@@ -23,7 +23,7 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
 ### 🔭 **Currently Working On:**
 - ✈️ A **Tourism Website** with dynamic packages and bookings
 - 📦 A **Parcel Distribution System** with map coverage
-- ⚡ Learning **Next.js** & mastering JWT Auth
+- ⚡ mastering JWT Auth
 - 🌐 Revamping my personal portfolio with React & TailwindCSS
 
 ---
