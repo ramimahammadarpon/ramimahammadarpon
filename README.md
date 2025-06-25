@@ -31,7 +31,7 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,firebase,tailwind,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,github,vscode&theme=light" />
 </p>
 
 ---
