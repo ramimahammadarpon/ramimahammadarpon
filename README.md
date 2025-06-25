@@ -32,12 +32,9 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 [Rock-Paper-Scissors](https://github.com/ramimahammadarpon/Rock-Paper-Scissors): *Another project to adapt myself with js* (`JavaScript`)
-- 🔹 [tictactoe-Game](https://github.com/ramimahammadarpon/tictactoe-Game): *Just a project to adapt myself with js logic and syntax* (`JavaScript`)
-- 🔹 [portfolio-website](https://github.com/ramimahammadarpon/portfolio-website): *This is only a HTML and CSS project* (`CSS`)
-- 🔹 [programminghero-portfolio](https://github.com/ramimahammadarpon/programminghero-portfolio): *Project to practice html and css* (`HTML`)
-- 🔹 [new-year-offer](https://github.com/ramimahammadarpon/new-year-offer): *This is only a HTML and CSS project* (`CSS`)
-- 🔹 [programming-hero-assignment-1](https://github.com/ramimahammadarpon/programming-hero-assignment-1): *My first assignment by PH* (`CSS`)
+- 🔹 [course-management-system(AcademiaPro)](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-ramimahammadarpon): *Another project to adapt myself with js* (`JavaScript`)
+- 🔹 [project-buddies](https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-ramimahammadarpon): *Just a project to adapt myself with js logic and syntax* (`JavaScript`)
+- 🔹 [app-store-project(App Emphorium)](https://github.com/programming-hero-web-course1/b11a9-react-authentication-ramimahammadarpon): *This is only a HTML and CSS project* (`CSS`)
 
 ---
 
