@@ -39,7 +39,7 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:mirramimahammad@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mirramimahammad@gmail.com&tf=cm" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ramim-ahammad-367431297/" target="_blank">
