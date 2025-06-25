@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ramimahammadarpon/ramimahammadarpon/refs/heads/main/Banner.png" alt="Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/ramimahammadarpon/ramimahammadarpon/refs/heads/main/ProfessionalTecBanner.png" alt="Banner" style="width:100%;"/>
 <h1 align="center">Hi 👋, I'm Mir Ramim Ahammad</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
