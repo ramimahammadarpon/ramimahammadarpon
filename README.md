@@ -53,7 +53,8 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramimahammadarpon&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramimahammadarpon&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ramimahammadarpon&theme=tokyonight" />
+
 </p>
 
 <p align="center">
