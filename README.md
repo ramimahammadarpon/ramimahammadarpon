@@ -45,9 +45,6 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
   <a href="https://www.linkedin.com/in/ramim-ahammad-367431297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=flat&logo=firefox&logoColor=white" />
-  </a>
 </p>
 
 ---
