@@ -1,71 +1,59 @@
-# 👋 Hey, I'm [Your Name]!
+<h1 align="center">Hi 👋, I'm Mir Ramim Ahammad</h1>
+<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
-**🚀 Passionate Full Stack Developer | 🧠 Problem Solver | 🌐 Tech Explorer**
-
-Welcome to my digital workspace! I'm a dedicated developer based in [Your Location], building scalable and user-focused web applications. I specialize in **MERN stack** and love crafting clean, modern interfaces and seamless backend logic.
-
----
-
-## 🛠️ Tech Toolbox
-A few tools, languages, and frameworks I work with daily:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;Always+Improving+Through+Code" alt="Typing SVG" />
+</p>
 
 ---
 
-## ✨ What I Do
+### 🧑‍💻 About Me
 
-- 🔧 Build full-stack web applications (MERN, Firebase, REST APIs)
-- 🌐 Explore modern JavaScript frameworks and libraries
-- 🔒 Focus on secure authentication (JWT, OAuth)
-- 🧪 Love debugging and optimizing performance
-- 📦 Craft developer tools and reusable components
-
----
-
-## 📈 GitHub Stats
-
-| 📊 Stats | 📌 Most Used Languages |
-|---------|------------------------|
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical) |
+- 📍 Based in **Bangladesh**
+- 🧠 Currently improving MERN stack skills
+- 🌱 Building and improving real-world projects
+- 📫 Email: **ramimahammadarpon@gmail.com**
 
 ---
 
-## 📬 Connect With Me
+### 🛠️ Languages and Tools
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourid)
-
----
-
-## 📌 Recent Projects
-
-- 🎯 **Parcel Distributing Website** – Real-time delivery tracking and warehouse mapping.
-- 🛠️ **Job Application Platform** – With secure JWT auth and application dashboards.
-- 📚 **Course Management System** – For universities with dynamic schedules and teacher panels.
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-## 🤓 Fun Facts
+### 🚀 Featured Projects
 
-- 🧩 I love solving real-world problems with code.
-- 🌍 Currently learning: **WebSocket & Microservices**
-- 💬 Ask me about JavaScript, React, Node, or productivity hacks.
-- 🕹️ Gaming & anime fan!
+- 🔹 [Rock-Paper-Scissors](https://github.com/ramimahammadarpon/Rock-Paper-Scissors): *Another project to adapt myself with js* (`JavaScript`)
+- 🔹 [tictactoe-Game](https://github.com/ramimahammadarpon/tictactoe-Game): *Just a project to adapt myself with js logic and syntax* (`JavaScript`)
+- 🔹 [portfolio-website](https://github.com/ramimahammadarpon/portfolio-website): *This is only a HTML and CSS project* (`CSS`)
+- 🔹 [programminghero-portfolio](https://github.com/ramimahammadarpon/programminghero-portfolio): *Project to practice html and css* (`HTML`)
+- 🔹 [new-year-offer](https://github.com/ramimahammadarpon/new-year-offer): *This is only a HTML and CSS project* (`CSS`)
+- 🔹 [programming-hero-assignment-1](https://github.com/ramimahammadarpon/programming-hero-assignment-1): *My first assignment by PH* (`CSS`)
 
 ---
 
-_Thanks for stopping by! Let's build something awesome together._ 🚀
+### 📊 GitHub Stats
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramimahammadarpon&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramimahammadarpon&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramimahammadarpon@gmail.com)
+
+<p align="center">
+  🧠 *"Coding every day to build something better."*
+</p>
