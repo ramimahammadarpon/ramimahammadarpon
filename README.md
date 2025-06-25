@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/ramimahammadarpon/ramimahammadarpon/blob/main/banner.png" alt="Banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/ramimahammadarpon/ramimahammadarpon/refs/heads/main/ProfessionalTecBanner.png" alt="Banner" style="width:100%;" />
 
 <h1 align="center">Hi, I'm Mir Ramim Ahammad Arpon 👋</h1>
 <h3 align="center">Full Stack Web Developer | JavaScript Enthusiast | Tech Explorer</h3>
