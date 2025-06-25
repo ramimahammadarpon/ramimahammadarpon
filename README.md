@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=450&lines=JavaSCript+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 
