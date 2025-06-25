@@ -23,7 +23,7 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
 ### 🔭 **Currently Working On:**
 - ✈️ A **Tourism Website** with dynamic packages and bookings
 - 📦 A **Parcel Distribution System** with map coverage
-- ⚡ mastering JWT Auth
+- ⚡ Mastering JWT Auth
 - 🌐 Revamping my personal portfolio with React & TailwindCSS
 
 ---
@@ -56,9 +56,7 @@ I'm a self-motivated **full stack developer** from Bangladesh who loves building
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramimahammadarpon&theme=radical" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramimahammadarpon&layout=compact&theme=radical" />
-</p>
+
 
 ---
 
