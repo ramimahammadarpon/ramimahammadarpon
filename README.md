@@ -13,7 +13,7 @@
 - 📍 Based in **Bangladesh**
 - 🧠 Currently improving MERN stack skills
 - 🌱 Building and improving real-world projects
-- 📫 Email: **ramimahammadarpon@gmail.com**
+- 📫 Email: **mirramimahammad@gmail.com**
 
 ---
 
