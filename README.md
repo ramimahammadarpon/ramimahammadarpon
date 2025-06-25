@@ -2,8 +2,9 @@
 <img src="https://github.com/ramimahammadarpon/ramimahammadarpon/blob/main/banner.png" alt="Mir Ramim Ahammad Arpon Banner" style="width:100%;" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9E&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hi+I'm+Mir+Ramim+Ahammad+Arpon;A+Full+Stack+Web+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+space!+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=450&lines=Hi+I'm+Mir+Ramim+Ahammad+Arpon;Full+Stack+Web+Developer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangladesh-1f425f?style=flat&logo=google-maps&logoColor=white" />
