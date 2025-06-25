@@ -1,6 +1,9 @@
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/ramimahammadarpon/ramimahammadarpon/refs/heads/main/ProfessionalTecBanner.png" alt="Mir Ramim Ahammad Arpon Banner" style="width:100%;" />
 
+<h1 align="center">Hi, I'm Mir Ramim Ahammad Arpon 👋</h1>
+<h3 align="center">Full Stack Web Developer | JavaScript Enthusiast | Tech Explorer</h3>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=450&lines=Hi+I'm+Mir+Ramim+Ahammad+Arpon;Full+Stack+Web+Developer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
